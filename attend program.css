@@ -1,0 +1,57 @@
+body{
+	background: skyblue;
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+}
+.header1{
+	color: black;
+}
+input[type="text"]{
+	width: 350px;
+	height: 25px;
+	font-size: 15px;
+	border: solid gold 2px;
+	border-radius: 10px;
+	padding: 5px;
+	box-shadow: red 3px 3px 8px;
+}
+input[type="email"]{
+	width: 350px;
+	height: 25px;
+	font-size: 15px;
+	border: solid gold 2px;
+	border-radius: 10px;
+	padding: 5px;
+	box-shadow: red  3px 3px 8px;
+}
+input[type="pass"]{
+	width: 350px;
+	height: 25px;
+	font-size: 15px;
+	border: solid gold 2px;
+	border-radius: 10px;
+	padding: 5px;
+	box-shadow: red  3px 3px 8px;
+}
+
+select{
+	width: 150px;
+	height: 25px;
+	font-size: 20px;
+	border: solid gold 2px;
+	border-radius: 10px;
+	box-shadow: red 3px 3px 8px;
+	font-weight: 700;
+	text-align: center;
+}
+button{
+	background: linear-gradient(orange,tomato);
+	border: none;
+	padding: 5px 15px;
+	font-size: 20px;
+	color: white;
+	border-radius: 16px;
+}
+button:hover{
+	background: linear-gradient(steelblue,navy);
+}
